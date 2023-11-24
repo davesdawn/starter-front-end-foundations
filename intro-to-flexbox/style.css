@@ -25,6 +25,7 @@ h3 {
 /* --- Groups & Items --- */
 
 .group {
+  flex-direction: column-reverse;
 }
 
 .item {
